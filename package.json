@@ -11,7 +11,10 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.6"
+    "next": "15.1.6",
+    "@builder.io/dev-tools": "latest",
+    "@builder.io/react": "latest",
+    "@builder.io/sdk": "latest"
   },
   "devDependencies": {
     "postcss": "^8",
